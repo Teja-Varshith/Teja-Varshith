@@ -20,7 +20,7 @@
 ### 🚀 About Me
 
 - 🎓 3rd Year B.Tech CSE @ GMR Institute of Technology
-- 📱 Flutter Developer | **2K+ Play Store Downloads**
+- 📱 Flutter Developer | **4K+ Play Store Downloads**
 - 🏆 **SIH 2024 Winner** (2.5L+ participants)
 - 💻 Building scalable backends with **Node.js**
 - 🌙 Night owl grinding and chasing dreams
